@@ -1,0 +1,18 @@
+{
+  "credentials": {
+    "email": "nbsoumya@gmail.com",
+    "password": "Api@2026"
+  },
+  "product": {
+    "index": 1
+  },
+  "checkout": {
+    "cvv": "123",
+    "country": "India"
+  },
+  "expectedMessages": {
+    "orderSuccess": "Thankyou for the order.",
+    "ordersPageHeading": "Your Orders",
+    "orderDetails": "Thank you for Shopping With Us"
+  }
+}
